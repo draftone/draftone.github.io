@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-フリーです。
+フリーのソフトウェアエンジニアです。
+* 組み込みソフトウェア
+* language:C/C++, Python
+
+
 
 [Twitter](https://twitter.com/tetsu_k_work)
 
